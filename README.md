@@ -1,4 +1,4 @@
-# Interacting with ERC20 contract in python
+# Interacting with ERC20 contract in python3 and web3.py
 
 ### Installing dependencies
 After installing jsonschema==3.2.0 restart the kernel
